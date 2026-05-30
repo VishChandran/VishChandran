@@ -2,6 +2,4 @@
 
 I work in technology delivery and spend a lot of time around payments, integrations, migrations, and modernization initiatives.
 
-This GitHub contains projects I build to better understand how complex systems behave—from payment processing and certification to routing, settlement, and platform migrations.
-
-I build these projects to better understand how complex systems are put together and how large changes can be delivered in smaller, manageable steps.
+This GitHub contains projects I build to explore payment processing, certification, routing, settlement, and platform migrations, while learning how large technology initiatives can be broken down and delivered incrementally.
