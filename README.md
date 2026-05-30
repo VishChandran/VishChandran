@@ -4,4 +4,4 @@ I work in technology delivery and spend a lot of time around payments, integrati
 
 This GitHub contains projects I build to better understand how complex systems behave — from payment processing and certification to routing, settlement, and platform migrations.
 
-An avid learner who enjoy building prototypes, experimenting with ideas, and learning through implementation..
+I'm an avid learner who enjoys building prototypes, experimenting with ideas, and learning through implementation.
